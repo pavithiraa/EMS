@@ -15,6 +15,7 @@ const LoginLanding = () => {
         description:"View your profile, track attendance, request time off, and access payslips.",
         icon:UserIcon
     }]
+    
   return (
     <div className="min-h-screen flex flex-col md:flex-row">
       <LoginLeftSide/>
